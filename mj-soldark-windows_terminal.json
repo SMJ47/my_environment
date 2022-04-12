@@ -1,0 +1,23 @@
+{
+    "background": "#002B36",
+    "black": "#002831",
+    "blue": "#2176C7",
+    "brightBlack": "#475B62",
+    "brightBlue": "#3B78FF",
+    "brightCyan": "#61D6D6",
+    "brightGreen": "#16C60C",
+    "brightPurple": "#B4009E",
+    "brightRed": "#E74856",
+    "brightWhite": "#F2F2F2",
+    "brightYellow": "#F9F1A5",
+    "cursorColor": "#708284",
+    "cyan": "#259286",
+    "foreground": "#839496",
+    "green": "#738A05",
+    "name": "MJ-Soldark",
+    "purple": "#C61C6F",
+    "red": "#D11C24",
+    "selectionBackground": "#111111",
+    "white": "#EAE3CB",
+    "yellow": "#A57706"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "MJ-Soldark",
+    "comment": "The best terminal theme for Tilix",
+    "use-theme-colors": false,
+    "foreground-color": "#839496",
+    "background-color": "#002B36",
+    "palette": [
+        "#002831",
+        "#D11C24",
+        "#738A05",
+        "#A57706",
+        "#2176C7",
+        "#C61C6F",
+        "#259286",
+        "#EAE3CB",
+        "#475B62",
+        "#E74856",
+        "#16C60C",
+        "#F9F1A5",
+        "#3B78FF",
+        "#B4009E",
+        "#61D6D6",
+        "#F2F2F2"
+    ]
+}
